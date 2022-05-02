@@ -1,1 +1,3 @@
 1. A máquina virtual Java (JVM) é uma máquina imaginária que emula uma aplicação em uma máquina real. Ela tem como função permitir a portabilidade do código Java; isso ocorre porque todo código Java é compilado para um formato intermediário, o bytecode. Esse formato é então interpretado pela JVM.
+
+2. O JRE (Java Runtime Environment) contém tudo aquilo que um usuário comum precisa para executar uma aplicação Java (JVM e bibliotecas), como o próprio nome diz é o “Ambiente de execução Java”, já o JDK (O Java Development Kit) é composto pelo JRE e um conjunto de ferramentas úteis ao desenvolvedor Java.
