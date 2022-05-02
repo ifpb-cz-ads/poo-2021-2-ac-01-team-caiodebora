@@ -1,1 +1,1 @@
-
+1. A máquina virtual Java (JVM) é uma máquina imaginária que emula uma aplicação em uma máquina real. Ela tem como função permitir a portabilidade do código Java; isso ocorre porque todo código Java é compilado para um formato intermediário, o bytecode. Esse formato é então interpretado pela JVM.
